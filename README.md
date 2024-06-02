@@ -66,8 +66,8 @@ openCV22.py - using the classifiers we highlight both face and eye features in t
 openCV23.py - using demo images and text we highlight and identify specific peoples faces
 
 openCV24.py - in the demo images folder added our own images and coded to recognise people i know with the webcam 
-# NOTE: removed pics other than my own from the demo image folder
-# NOTE: image is sluggish would need to use GPU for better performance
+NOTE: removed pics other than my own from the demo image folder
+NOTE: image is sluggish would need to use GPU for better performance
 
 openCV25.py - file manipulation - unfinished
 
