@@ -1,3 +1,5 @@
+IMPORTANT: to avoid changing paths for files when this downloads rename the folder 'pyfiles-master' to 'Python'
+
 The main directory for files using the WebCam is the Python folder The numbered files named openCV use a webcam in some form. There are other folders in the Python Folder that contain images for use in some of the openCV files
 
 There is also included a certificates folder that contains certs to prove work done on tutorials either on AWS or with Python
